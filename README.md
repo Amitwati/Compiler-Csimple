@@ -1,6 +1,12 @@
 # CSimpel-Compiler
 
 This project have 3 parts:<br />
-1)Scanner/Parser + Abstract Syntax Tree <br />
-2)Semantic Analysis <br />
-3)Three-address code <br />
+
+part 1:<br />
+Scanner/Parser + Abstract Syntax Tree <br />
+
+part 2:<br />
+Semantic Analysis <br />
+
+part 3:<br />
+Three-address code <br />
